@@ -9,10 +9,10 @@
 - 支援基本的資料庫操作，包含新增、更新、刪除預約記錄。
 
 ### 環境安裝
-  conda activate mvc
-  pip install -r requirements.txt
-  python manage.py migrate
-  python manage.py runserver
+  'conda activate mvc'
+  'pip install -r requirements.txt'
+  'python manage.py migrate'
+  'python manage.py runserver'
 
 ### Demo
 ![Demo GIF](demo.gif)
