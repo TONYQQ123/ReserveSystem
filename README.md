@@ -15,6 +15,12 @@
     python manage.py runserver
 
 ### Demo
-![Demo GIF](demo.gif)
+https://github.com/user-attachments/assets/9190e8fd-266c-482e-830c-2a6e7f83b571
+
+
+https://github.com/user-attachments/assets/853fb8a7-75e7-4afe-854c-edcf079f37f1
+
+
+
 
 
